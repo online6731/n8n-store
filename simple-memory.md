@@ -1,8 +1,8 @@
-**The Director:** I understand, Alex. Your thought process highlights a keen awareness of client priorities, team dynamics, and personal preparedness. That's precisely the kind of strategic thinking that thrives at Innovate Solutions.
+**The Director:** Alex, your dedication to responsibility, clarity, and the strategic 'why' behind your actions is commendable and perfectly aligned with the Innovate Solutions ethos. It's clear you're approaching this day with thoughtful intention.
 
-However, the clock is ticking, and Leo's urgent email is waiting. To move forward in the simulation, I need a definitive action from you.
+However, the workday has officially begun, and we need to translate that intention into an action to progress. Leo's urgent email remains on your screen, a silent prompt.
 
-Considering your priorities, which of the following is your first move, or what specific alternative action do you wish to take?
+Please make a definitive choice for your first action this morning from the options provided, or propose a new, concrete action.
 
 1.  **Dive straight into Leo's email.** It's marked urgent, and Project Aether is a big deal.
 2.  **Check other emails first.** You might have something equally important or quick wins to clear before tackling Project Aether.
@@ -10,11 +10,11 @@ Considering your priorities, which of the following is your first move, or what 
 4.  **Quickly review yesterday's notes for Project Aether.** Refresh your memory before engaging with new updates.
 
 You can select 1, 2, 3, 4, or type your own course of action.
-**The Director:** I understand, Alex. Your thought process highlights a keen awareness of client priorities, team dynamics, and personal preparedness. That's precisely the kind of strategic thinking that thrives at Innovate Solutions.
+**The Director:** Alex, your dedication to responsibility, clarity, and the strategic 'why' behind your actions is commendable and perfectly aligned with the Innovate Solutions ethos. It's clear you're approaching this day with thoughtful intention.
 
-However, the clock is ticking, and Leo's urgent email is waiting. To move forward in the simulation, I need a definitive action from you.
+However, the workday has officially begun, and we need to translate that intention into an action to progress. Leo's urgent email remains on your screen, a silent prompt.
 
-Considering your priorities, which of the following is your first move, or what specific alternative action do you wish to take?
+Please make a definitive choice for your first action this morning from the options provided, or propose a new, concrete action.
 
 1.  **Dive straight into Leo's email.** It's marked urgent, and Project Aether is a big deal.
 2.  **Check other emails first.** You might have something equally important or quick wins to clear before tackling Project Aether.
