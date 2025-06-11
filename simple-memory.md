@@ -17,6 +17,7 @@
 
 
 
+
 1. **Open the 'Urgent' email from Liam Chen immediately.**
 
 As a professional, my priority is always to address the most pressing matters first, especially when they come from a Project Lead and are marked 'Urgent'. Client needs, particularly in an engagement like 'Quantum Leap', often have a direct impact on our success and reputation. Understanding the nature of the urgency allows me to quickly assess the situation and determine the best course of action, even before the official workday begins. I'd rather be informed and proactive than caught off guard. After addressing Liam's email, I would then take a moment to review my calendar and structure my day effectively.
@@ -188,3 +189,18 @@ What's your next move?
 
 You can select 1, 2, 3, 4, or type your own course of action.
 3. Do a rapid re-read of the key sections of the project documents, specifically highlighting information relevant to the template's sections.
+**(Narrator Persona)**
+A wise choice. With the template now open, you understand precisely what information needs to go where. Instead of just diving in and hoping for the best, you decide to conduct a targeted re-read of the "Horizon Project Kick-off Brief" and the "Client Background Dossier." You scan through the documents once more, but this time, your eyes are trained to extract specific details that align with the template's sections: 'Client Challenge,' 'Innovate Solutions' Approach,' 'Key Outcomes (Phase 1),' and 'Key Outcomes (Phase 2).'
+
+You highlight key phrases, financial figures, and strategic objectives as you go, mentally mapping them to the executive summary structure. This focused review helps to consolidate the information in your mind, making the upcoming drafting process much more efficient. You notice some specific metrics for efficiency gains in Phase 1 and potential revenue growth in Phase 2 that you'll want to include.
+
+The collaborative pod feels productive, a quiet haven of concentration amidst the broader office buzz. You glance at the clock. It's now **12:10 PM**. You've got about 50 minutes until the 1:00 PM deadline, with lunch fitting in somewhere around that time. You have a solid mental outline and key details extracted.
+
+What's your next move?
+
+1.  Begin drafting the executive summary directly into the template.
+2.  Take a quick break to grab a snack or drink before diving into the writing.
+3.  Review your extracted notes and mentally rehearse the summary before typing.
+4.  Consider sending a quick message to Mr. Vance asking about the best time for lunch or if there's a team lunch tradition.
+
+You can select 1, 2, 3, 4, or type your own course of action.
