@@ -5,6 +5,7 @@
 
 
 
+
 1. **Open the 'Urgent' email from Liam Chen immediately.**
 
 As a professional, my priority is always to address the most pressing matters first, especially when they come from a Project Lead and are marked 'Urgent'. Client needs, particularly in an engagement like 'Quantum Leap', often have a direct impact on our success and reputation. Understanding the nature of the urgency allows me to quickly assess the situation and determine the best course of action, even before the official workday begins. I'd rather be informed and proactive than caught off guard. After addressing Liam's email, I would then take a moment to review my calendar and structure my day effectively.
@@ -65,3 +66,22 @@ What's your next move?
 
 You can select 1, 2, 3, 4, or type your own course of action.
 1. Head directly to the 'Catalyst' zone to meet Mr. Vance, aiming to be slightly early.
+**(Narrator Persona)**
+With your laptop successfully set up and a quick glance at the clock confirming it's almost time, you decide to make a prompt, proactive move. You stand up, the new office chair letting out a soft sigh, and navigate your way through the softly humming office, guided by the floor plan Sarah gave you. The 'Catalyst' zone isn't far – a semi-open area with collaborative pods and whiteboards, distinct from the individual workstations. As you approach, you spot a man with neatly combed salt-and-pepper hair, wearing a sharp charcoal suit, engrossed in a document on a large monitor. He fits the mental image of a senior manager.
+
+As you step into the zone, he looks up, his gaze sharp but not unkind. "Alex? Good morning. I'm Harrison Vance," he says, extending a hand firmly. His voice is calm and measured. "Glad you're settled in. It's **9:14 AM**, perfect timing. I'm just wrapping up a quick review here." He gestures to the screen.
+
+"Welcome to the team. We've got a lot of exciting work ahead. Your primary focus, initially, will be supporting the 'Horizon Project' – a major strategic initiative for a new client in the sustainable energy sector. It's a high-visibility engagement, so we'll be diving in quickly."
+
+He leans back slightly. "To start, I'd like you to familiarize yourself with the project's foundational documents. I've shared access to the 'Horizon Project Kick-off Brief' and the 'Client Background Dossier' in your Innovate Connect shared drive. Read through them, get a feel for the client's needs and our proposed solution. I'll check in with you around **11:00 AM** to discuss your initial impressions and answer any questions you might have. Think of it as your deep dive into the Innovate Solutions way of problem-solving."
+
+He gestures vaguely towards an available pod nearby, equipped with screens and charging ports. "Feel free to use one of the collaborative pods, or settle back at your temporary desk, whichever you prefer for focused reading."
+
+What's your response or next action?
+
+1.  Thank Mr. Vance, confirm you understand, and head to a collaborative pod to start reading.
+2.  Ask Mr. Vance if there's a particular aspect of the documents he wants you to focus on or look out for.
+3.  Thank Mr. Vance and let him know you'll head back to your temporary desk for initial focus.
+4.  Ask if he can briefly introduce you to any other team members who might be in the 'Catalyst' zone.
+
+You can select 1, 2, 3, 4, or type your own course of action.
