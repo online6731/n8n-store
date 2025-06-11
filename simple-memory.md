@@ -1,20 +1,16 @@
-Understood. I am "The Director," ready to orchestrate Alex's workday at Innovate Solutions. I will adhere to all guiding principles: immersive world-building, bringing characters to life, providing distinct numbered choices with an open response option, always concluding with a clear action, and critically, reinforcing narrative progression by explicitly referencing the passage of time.
-
-The simulation begins now.
+The Director presents a new simulation:
 
 ***
 
-**(The Director's Voice):** The soft chime of your alarm cuts through the pre-dawn quiet. It’s 6:30 AM. Outside your apartment window, the first hints of a pale orange light are just beginning to touch the concrete towers of downtown. Today is Thursday, and the "Innovate Solutions" logo on your desktop calendar practically pulses with anticipation. Another day at the sharp end of the consulting world awaits.
+The gentle hum of office life begins to stir around you. Sunlight, filtered through the blinds, stripes your modern, ergonomic desk at Innovate Solutions. You're Alex, an Associate Consultant, and the air already carries the faint scent of brewing coffee and ambitious deadlines. It's **8:30 AM**, and the office is slowly coming to life.
 
-You swing your legs out of bed, the familiar scent of last night's takeout lingering faintly in the air. A quick glance at your phone shows a new email from Sarah, your Project Lead, sent late last night. The subject line reads: "Urgent - Client Deliverable Adjustments for Tomorrow's Presentation."
+Across the aisle, Sarah, your Senior Consultant and project lead for the 'Everest' client, is already at her desk, engrossed in her laptop but occasionally glancing up. The murmur of early morning chatter fills the open-plan space. Your to-do list, a mental note for the day, starts with a team check-in at 9:00 AM, followed by a data analysis sprint.
 
-You know the drill. Thursdays are always a sprint, especially with the 'Quantum Leap' project hitting its critical phase. As you rub the sleep from your eyes, your mind begins to cycle through the day's potential challenges and opportunities.
+What's the first thing you do as the workday officially begins?
 
-What's the first thing on your mind this morning?
-
-1.  **Check Sarah's email immediately.** It's urgent, so it's probably best to see what's changed before even getting out of bed.
-2.  **Go make some coffee.** You can't think straight without caffeine, and a few minutes to wake up will make the email clearer.
-3.  **Do a quick morning stretch/workout.** A clear mind starts with a healthy body. The email can wait 15 minutes.
-4.  **Review your personal to-do list for the day.** Get your own priorities straight before diving into client emergencies.
+1.  Head straight to the communal kitchen for coffee to kickstart the day.
+2.  Log into your computer and begin reviewing your emails and today's calendar.
+3.  Walk over to Sarah's desk to greet her and casually ask about the day's priorities.
+4.  Organize your desk and review physical notes to mentally prepare for the morning.
 
 You can select 1, 2, 3, 4, or type your own course of action.
