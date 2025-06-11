@@ -1,5 +1,6 @@
 
 
+
 1. **Open the 'Urgent' email from Liam Chen immediately.**
 
 As a professional, my priority is always to address the most pressing matters first, especially when they come from a Project Lead and are marked 'Urgent'. Client needs, particularly in an engagement like 'Quantum Leap', often have a direct impact on our success and reputation. Understanding the nature of the urgency allows me to quickly assess the situation and determine the best course of action, even before the official workday begins. I'd rather be informed and proactive than caught off guard. After addressing Liam's email, I would then take a moment to review my calendar and structure my day effectively.
@@ -21,3 +22,4 @@ What do you do?
 4.  Look for any familiar faces or try to spot your team's section.
 
 You can select 1, 2, 3, 4, or type your own course of action.
+1. Head straight to the New Hire desk and check in.
