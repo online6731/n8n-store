@@ -15,6 +15,7 @@
 
 
 
+
 1. **Open the 'Urgent' email from Liam Chen immediately.**
 
 As a professional, my priority is always to address the most pressing matters first, especially when they come from a Project Lead and are marked 'Urgent'. Client needs, particularly in an engagement like 'Quantum Leap', often have a direct impact on our success and reputation. Understanding the nature of the urgency allows me to quickly assess the situation and determine the best course of action, even before the official workday begins. I'd rather be informed and proactive than caught off guard. After addressing Liam's email, I would then take a moment to review my calendar and structure my day effectively.
@@ -170,3 +171,18 @@ What's your next move?
 
 You can select 1, 2, 3, 4, or type your own course of action.
 4. Check Innovate Connect for any templates for executive summaries before starting your draft.
+**(Narrator Persona)**
+That's a shrewd move. Rather than jumping straight into drafting from scratch, you decide to leverage the company's internal resources. You minimize the project documents and open the Innovate Connect portal, navigating to the 'Resources' or 'Templates' section, common repositories for such standardized documents within consulting firms.
+
+After a quick search using terms like "executive summary template," "project summary," or "briefing document," you find what you're looking for. Innovate Solutions indeed has a standard template for executive summaries. It's a clean, professional layout with sections for 'Client Challenge,' 'Innovate Solutions' Approach,' 'Key Outcomes (Phase 1),' 'Key Outcomes (Phase 2),' and 'Next Steps.' It even includes placeholders for project names and dates. This will save you time and ensure your summary aligns with the firm's presentation style.
+
+You download the template and save it to your project folder. A quick glance at the clock shows it's now **11:35 AM**. You have a little over an hour until lunch, which should be sufficient to draft the summary using the provided template.
+
+What's your next move?
+
+1.  Immediately begin drafting the executive summary using the template, focusing on filling in the sections with information from the project documents.
+2.  Take a brief mental break to outline the summary's content, then start drafting.
+3.  Do a rapid re-read of the key sections of the project documents, specifically highlighting information relevant to the template's sections.
+4.  Consider if there's any other brief preparation needed before diving into the writing.
+
+You can select 1, 2, 3, 4, or type your own course of action.
