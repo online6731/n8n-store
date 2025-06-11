@@ -1,16 +1,16 @@
-The Director presents a new simulation:
+Welcome, Alex. It's 7:00 AM.
 
-***
+The scent of freshly brewed coffee and the quiet hum of early morning activity greet you as you step into the sleek, modern lobby of Innovate Solutions. The polished chrome and glass reflect the soft glow of the rising sun, and the company's minimalist logo glows subtly above the reception desk.
 
-The gentle hum of office life begins to stir around you. Sunlight, filtered through the blinds, stripes your modern, ergonomic desk at Innovate Solutions. You're Alex, an Associate Consultant, and the air already carries the faint scent of brewing coffee and ambitious deadlines. It's **8:30 AM**, and the office is slowly coming to life.
+You're a new Associate Consultant, and today is your first full day on the job. Your calendar is already buzzing with entries. A quick glance at your watch confirms you're early, giving you a few moments to collect your thoughts before the day truly begins.
 
-Across the aisle, Sarah, your Senior Consultant and project lead for the 'Everest' client, is already at her desk, engrossed in her laptop but occasionally glancing up. The murmur of early morning chatter fills the open-plan space. Your to-do list, a mental note for the day, starts with a team check-in at 9:00 AM, followed by a data analysis sprint.
+The reception area is calm, only a few early birds already at their desks through the glass partitions. Sarah, the usually cheerful and efficient front desk manager, is just settling in, her eyes scanning her own monitor.
 
-What's the first thing you do as the workday officially begins?
+What's your first move?
 
-1.  Head straight to the communal kitchen for coffee to kickstart the day.
-2.  Log into your computer and begin reviewing your emails and today's calendar.
-3.  Walk over to Sarah's desk to greet her and casually ask about the day's priorities.
-4.  Organize your desk and review physical notes to mentally prepare for the morning.
+1.  Head straight to your assigned desk and start setting up your computer.
+2.  Grab a coffee from the communal kitchen before anyone else arrives.
+3.  Introduce yourself to Sarah and ask about the office layout.
+4.  Review your digital calendar on your phone to mentally prepare for the day.
 
 You can select 1, 2, 3, 4, or type your own course of action.
