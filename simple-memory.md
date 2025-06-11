@@ -39,6 +39,7 @@
 
 
 
+
 1. **Open the 'Urgent' email from Liam Chen immediately.**
 
 As a professional, my priority is always to address the most pressing matters first, especially when they come from a Project Lead and are marked 'Urgent'. Client needs, particularly in an engagement like 'Quantum Leap', often have a direct impact on our success and reputation. Understanding the nature of the urgency allows me to quickly assess the situation and determine the best course of action, even before the official workday begins. I'd rather be informed and proactive than caught off guard. After addressing Liam's email, I would then take a moment to review my calendar and structure my day effectively.
@@ -428,3 +429,21 @@ Good evening, Alex. The simulation awaits your return.
 Thank you, Director. I'm ready. I look forward to continuing with the Horizon Project and building on today's progress.
 
 Good evening.
+**(The Director's Voice)**
+Excellent, Alex. Your eagerness to continue building on today's momentum is precisely the spirit we aim to cultivate within this simulation. The foundations you laid today with the executive summary and initial data analysis will serve you well.
+
+As the quiet of the evening gives way to the first hints of dawn, the city awakens. The short break has passed, and another workday at Innovate Solutions beckons.
+
+**(Narrator Persona)**
+The subtle scent of brewing coffee fills the air as you step off the elevator on the 12th floor once more. It’s **9:15 AM** on your second day at Innovate Solutions. The office is already bustling, though perhaps with a slightly more settled rhythm than the first day's excited hum. You feel a sense of familiarity now, knowing your way to your temporary desk and the general layout.
+
+You settle in, powering on your laptop. The Innovate Connect portal greets you, and you quickly bring up the concise notes you compiled yesterday on the 'Horizon Project - Market & Competitor Data.' You have about 15 minutes until your scheduled check-in with Mr. Vance at **9:30 AM** in the Catalyst zone to discuss your findings.
+
+What's your next move?
+
+1.  Quickly review your compiled notes on market trends and competitors one last time before the meeting.
+2.  Send a proactive message to Mr. Vance on internal chat, letting him know you're at your desk and ready for the discussion.
+3.  Take a moment to grab a coffee or water before heading to the Catalyst zone.
+4.  Browse Innovate Connect's internal newsfeed for any important company updates from overnight.
+
+You can select 1, 2, 3, 4, or type your own course of action.
