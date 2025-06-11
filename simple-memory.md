@@ -1,46 +1,28 @@
-You immediately click on Sarah Chen's email. It opens to a concise, direct message:
+You decide the most direct path is best. You open the shared drive, navigating through the 'Project Horizon' folder, then into 'Analytics,' and finally 'Q3 Data.' The folder contains a few spreadsheets, but one stands out: `Horizon_Pilot_Q3_Metrics_V3.xlsx`.
 
-Subject: Urgent - Project Horizon Data
+You open the Excel file. It's extensive, with multiple tabs and dense data. You quickly scan through the tabs, looking for anything related to "conversion rates" or "engagement metrics." After a moment of searching, you find a tab labeled 'Conversion Summary' with a clear table outlining the pilot phase conversion rates. You quickly extract the relevant figures.
 
-"Hi Alex,
+**It's now 9:15 AM.** You have the data in hand.
 
-Hope you're settling in. I need a critical piece of data for Project Horizon *before* our 10 AM sync. It's the Q3 client engagement metrics, specifically the conversion rates from the initial pilot phase. Mark usually handles this, but he's out today. You should be able to find it in the 'Project Horizon/Analytics/Q3 Data' folder on the shared drive. It might be buried in an Excel spreadsheet.
+What's your next move?
 
-Please get this to me ASAP once you've pulled it. We need it for the discussion points.
-
-Thanks,
-Sarah"
-
-**It's 8:55 AM.** The clock is ticking towards the 10:00 AM meeting, and this data is clearly a priority.
-
-What's your next step?
-
-1.  Head straight to the shared drive to locate the data.
-2.  Quickly check your own files first, just in case you have a copy.
-3.  Send a quick reply to Sarah confirming you're on it, then search.
-4.  Ask a colleague if they know where Mark usually keeps such specific data.
+1.  Immediately email the data to Sarah Chen.
+2.  Quickly review the data yourself to ensure it makes sense before sending.
+3.  Prepare a brief summary of the data to accompany the raw figures for Sarah.
+4.  Ping Sarah on internal chat to let her know you've found it and are sending.
 
 You can select 1, 2, 3, 4, or type your own course of action.
-You immediately click on Sarah Chen's email. It opens to a concise, direct message:
+You decide the most direct path is best. You open the shared drive, navigating through the 'Project Horizon' folder, then into 'Analytics,' and finally 'Q3 Data.' The folder contains a few spreadsheets, but one stands out: `Horizon_Pilot_Q3_Metrics_V3.xlsx`.
 
-Subject: Urgent - Project Horizon Data
+You open the Excel file. It's extensive, with multiple tabs and dense data. You quickly scan through the tabs, looking for anything related to "conversion rates" or "engagement metrics." After a moment of searching, you find a tab labeled 'Conversion Summary' with a clear table outlining the pilot phase conversion rates. You quickly extract the relevant figures.
 
-"Hi Alex,
+**It's now 9:15 AM.** You have the data in hand.
 
-Hope you're settling in. I need a critical piece of data for Project Horizon *before* our 10 AM sync. It's the Q3 client engagement metrics, specifically the conversion rates from the initial pilot phase. Mark usually handles this, but he's out today. You should be able to find it in the 'Project Horizon/Analytics/Q3 Data' folder on the shared drive. It might be buried in an Excel spreadsheet.
+What's your next move?
 
-Please get this to me ASAP once you've pulled it. We need it for the discussion points.
-
-Thanks,
-Sarah"
-
-**It's 8:55 AM.** The clock is ticking towards the 10:00 AM meeting, and this data is clearly a priority.
-
-What's your next step?
-
-1.  Head straight to the shared drive to locate the data.
-2.  Quickly check your own files first, just in case you have a copy.
-3.  Send a quick reply to Sarah confirming you're on it, then search.
-4.  Ask a colleague if they know where Mark usually keeps such specific data.
+1.  Immediately email the data to Sarah Chen.
+2.  Quickly review the data yourself to ensure it makes sense before sending.
+3.  Prepare a brief summary of the data to accompany the raw figures for Sarah.
+4.  Ping Sarah on internal chat to let her know you've found it and are sending.
 
 You can select 1, 2, 3, 4, or type your own course of action.
