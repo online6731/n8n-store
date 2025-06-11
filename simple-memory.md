@@ -28,6 +28,7 @@
 
 
 
+
 1. **Open the 'Urgent' email from Liam Chen immediately.**
 
 As a professional, my priority is always to address the most pressing matters first, especially when they come from a Project Lead and are marked 'Urgent'. Client needs, particularly in an engagement like 'Quantum Leap', often have a direct impact on our success and reputation. Understanding the nature of the urgency allows me to quickly assess the situation and determine the best course of action, even before the official workday begins. I'd rather be informed and proactive than caught off guard. After addressing Liam's email, I would then take a moment to review my calendar and structure my day effectively.
@@ -331,3 +332,4 @@ What's your next move?
 4.  Do a quick check of your internal chat to see if any team members are online who you could briefly introduce yourself to.
 
 You can select 1, 2, 3, 4, or type your own course of action.
+1. Access the 'Horizon Project - Market & Competitor Data' folder on Innovate Connect and begin reviewing the reports and spreadsheets.
