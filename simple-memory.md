@@ -23,6 +23,7 @@
 
 
 
+
 1. **Open the 'Urgent' email from Liam Chen immediately.**
 
 As a professional, my priority is always to address the most pressing matters first, especially when they come from a Project Lead and are marked 'Urgent'. Client needs, particularly in an engagement like 'Quantum Leap', often have a direct impact on our success and reputation. Understanding the nature of the urgency allows me to quickly assess the situation and determine the best course of action, even before the official workday begins. I'd rather be informed and proactive than caught off guard. After addressing Liam's email, I would then take a moment to review my calendar and structure my day effectively.
@@ -246,3 +247,24 @@ What do you do for lunch?
 
 You can select 1, 2, 3, 4, or type your own course of action.
 1. Head to the Innovate Solutions cafeteria to see what's available and get a feel for the options.
+**(Narrator Persona)**
+With the executive summary submitted, a wave of immediate hunger washes over you. You pack up your laptop, grab your badge, and follow the discreet signs to the Innovate Solutions cafeteria, located on the mezzanine level.
+
+As you step in, the atmosphere shifts from focused quiet to a pleasant, lively hum. The cafeteria is bright and spacious, with floor-to-ceiling windows offering a panoramic view of the city. Modern, minimalist furniture fills the space, and different food stations offer a variety of options: a fresh salad bar, a hot food station with a rotating menu, a sandwich and wrap deli, and a small, artisanal coffee bar. The air is filled with the mingled aromas of different cuisines.
+
+You join a short line at the hot food station, opting for a chicken and quinoa bowl that looks both healthy and substantial. You notice a few colleagues in spirited conversation at a communal table, and others quietly eating while scrolling on their phones. The overall vibe is relaxed but still professional. You find an empty table by a window and enjoy your meal, taking a moment to simply observe the dynamic of the firm during its lunch break. It's a useful glimpse into the company culture outside of direct work.
+
+The lunch break passes, a needed respite. You finish your meal, dispose of your tray, and take a quick detour to the coffee bar for a mild pick-me-up.
+
+It's now **1:45 PM**. You return to your temporary desk, feeling refreshed and ready for the afternoon. As you settle back in and open your laptop, you notice a new email notification blinking from your inbox. It's from Mr. Harrison Vance, sent at **1:30 PM**.
+
+The subject line reads: "RE: Horizon Project - Executive Summary Draft - Alex Chen."
+
+What's your next move?
+
+1.  Open Mr. Vance's email immediately to see his feedback.
+2.  Take a moment to organize your desk and review your previous notes before opening the email.
+3.  Check Innovate Connect for any new company-wide announcements or messages that might have appeared during lunch.
+4.  Stand up and stretch again, preparing mentally for the feedback before reading the email.
+
+You can select 1, 2, 3, 4, or type your own course of action.
