@@ -1,24 +1,28 @@
-You open a blank document, or perhaps a physical notebook if that's your preference, and begin to jot down some thoughts for the sync. You make a note of the Q3 conversion rates you just pulled for Sarah, considering potential questions that might arise about them. You also make a mental or physical note of the other agenda items: pilot phase feedback, client presentation next steps, and action items. Having these points outlined helps solidify your readiness.
+You decide it's a good idea to ensure you're fully prepared and refreshed. You quickly walk to the breakroom, fill your water bottle, and then head towards the conference room booked for the Project Horizon sync.
 
-**It's 9:45 AM.** You've spent some valuable time getting your head in the game for the Project Horizon sync, which is now just 15 minutes away. The office is getting a bit livelier as more people arrive and prepare for their morning meetings.
+You arrive a few minutes early, finding David Lee, the Project Manager, already there, setting up the projector. He nods a greeting. Sarah Chen and Emily White arrive shortly after, and the room begins to fill.
 
-What's your next move as the meeting approaches?
+**It's 10:00 AM.** The meeting officially begins. David kicks off by reviewing the agenda. Sarah then turns to the first key discussion point: "Review of Q3 Client Engagement Metrics, specifically conversion rates." She looks at you, "Alex, thanks again for pulling those Q3 conversion rates. Could you walk us through the key takeaways from that data?"
 
-1.  Head to the meeting room early to get a good seat and set up.
-2.  Do a final quick scan of your general inbox for anything urgent that might have come in.
-3.  Grab a glass of water or coffee to take into the meeting.
-4.  Review the Project Horizon client brief one last time to refresh your memory on overall objectives.
+What do you do?
+
+1.  Present the conversion rates clearly, highlighting the figures you found.
+2.  Defer to Sarah, asking if she wants to present the data first.
+3.  Ask a clarifying question about what specific takeaways they are looking for.
+4.  Quickly check your notes one last time before speaking.
 
 You can select 1, 2, 3, 4, or type your own course of action.
-You open a blank document, or perhaps a physical notebook if that's your preference, and begin to jot down some thoughts for the sync. You make a note of the Q3 conversion rates you just pulled for Sarah, considering potential questions that might arise about them. You also make a mental or physical note of the other agenda items: pilot phase feedback, client presentation next steps, and action items. Having these points outlined helps solidify your readiness.
+You decide it's a good idea to ensure you're fully prepared and refreshed. You quickly walk to the breakroom, fill your water bottle, and then head towards the conference room booked for the Project Horizon sync.
 
-**It's 9:45 AM.** You've spent some valuable time getting your head in the game for the Project Horizon sync, which is now just 15 minutes away. The office is getting a bit livelier as more people arrive and prepare for their morning meetings.
+You arrive a few minutes early, finding David Lee, the Project Manager, already there, setting up the projector. He nods a greeting. Sarah Chen and Emily White arrive shortly after, and the room begins to fill.
 
-What's your next move as the meeting approaches?
+**It's 10:00 AM.** The meeting officially begins. David kicks off by reviewing the agenda. Sarah then turns to the first key discussion point: "Review of Q3 Client Engagement Metrics, specifically conversion rates." She looks at you, "Alex, thanks again for pulling those Q3 conversion rates. Could you walk us through the key takeaways from that data?"
 
-1.  Head to the meeting room early to get a good seat and set up.
-2.  Do a final quick scan of your general inbox for anything urgent that might have come in.
-3.  Grab a glass of water or coffee to take into the meeting.
-4.  Review the Project Horizon client brief one last time to refresh your memory on overall objectives.
+What do you do?
+
+1.  Present the conversion rates clearly, highlighting the figures you found.
+2.  Defer to Sarah, asking if she wants to present the data first.
+3.  Ask a clarifying question about what specific takeaways they are looking for.
+4.  Quickly check your notes one last time before speaking.
 
 You can select 1, 2, 3, 4, or type your own course of action.
