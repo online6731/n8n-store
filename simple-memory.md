@@ -35,6 +35,7 @@
 
 
 
+
 1. **Open the 'Urgent' email from Liam Chen immediately.**
 
 As a professional, my priority is always to address the most pressing matters first, especially when they come from a Project Lead and are marked 'Urgent'. Client needs, particularly in an engagement like 'Quantum Leap', often have a direct impact on our success and reputation. Understanding the nature of the urgency allows me to quickly assess the situation and determine the best course of action, even before the official workday begins. I'd rather be informed and proactive than caught off guard. After addressing Liam's email, I would then take a moment to review my calendar and structure my day effectively.
@@ -401,3 +402,14 @@ What is your final action for the day?
 
 You can select 1, 2, 3, 4, or type your own course of action.
 2. Take a moment to tidy your temporary desk thoroughly before leaving.
+**(Narrator Persona)**
+Even though it's a temporary space, you believe in leaving things as you found them, or better. You spend a minute tidying your desk, aligning the monitor, ensuring no stray papers are left behind, and wiping down any smudges. It's a small but professional gesture, reflecting an organized approach to your workspace.
+
+With your temporary desk now pristine, you pick up your laptop bag, feeling the satisfying weight of a productive day's work. You cast a final look around the increasingly quiet office, noting the rows of empty chairs and the subdued lighting that has begun to take over from the afternoon sun.
+
+It's **5:30 PM**. The workday officially concludes. You head towards the elevators, the soft hum of the air conditioning your only companion now. As the elevator doors slide open, you step in, ready to decompress after an engaging first day at Innovate Solutions.
+
+**(The Director's Voice - Scene End)**
+Well done, Alex. Your first day at Innovate Solutions draws to a close. You've navigated the initial hurdles, embraced the firm's culture, and made a strong first impression. The simulation pauses here, ready for your return. Rest up, for tomorrow, the 'Horizon Project' delves deeper, and your contributions will become even more pivotal.
+
+**End of Day 1. The simulation will resume tomorrow.**
