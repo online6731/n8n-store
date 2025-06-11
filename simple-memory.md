@@ -1,6 +1,7 @@
 
 
 
+
 1. **Open the 'Urgent' email from Liam Chen immediately.**
 
 As a professional, my priority is always to address the most pressing matters first, especially when they come from a Project Lead and are marked 'Urgent'. Client needs, particularly in an engagement like 'Quantum Leap', often have a direct impact on our success and reputation. Understanding the nature of the urgency allows me to quickly assess the situation and determine the best course of action, even before the official workday begins. I'd rather be informed and proactive than caught off guard. After addressing Liam's email, I would then take a moment to review my calendar and structure my day effectively.
@@ -23,3 +24,22 @@ What do you do?
 
 You can select 1, 2, 3, 4, or type your own course of action.
 1. Head straight to the New Hire desk and check in.
+**(Narrator Persona)**
+You nod, a quiet sense of purpose guiding you. You walk past a few clusters of desks, the low murmur of conversations and the tap-tap-tap of keyboards filling the air. The New Hire desk is indeed just as described, a small, welcoming station. As you approach, a cheerful woman with kind eyes and an "Innovate Solutions HR" lanyard looks up from her tablet, a warm smile spreading across her face.
+
+"Good morning! You must be Alex, our new Junior Consultant? Welcome to Innovate Solutions!" she says, her voice friendly and efficient. "I'm Sarah. We've been expecting you. Let's get you properly checked in."
+
+She quickly verifies your details, hands you a pre-configured laptop bag with your name on it, and explains a few initial logistical items: where the nearest team huddle spaces are, the cafeteria hours, and the general process for IT support. She then points to a nearby, unoccupied desk with a small "Reserved for New Hire" sign. "This will be your temporary desk for the first week or so while we finalize seating arrangements for your project team. Your manager, Mr. Harrison Vance, is expecting you to connect with him around **9:15 AM** to discuss your first tasks. He's usually in the 'Catalyst' zone – I've marked it on this floor plan for you." She hands you a glossy, folded map of the office.
+
+"For now, your main goal is to get settled, set up your laptop, and log into the company network," Sarah explains. "There's a quick IT setup guide inside the laptop bag. If you run into any issues, the IT desk is just around the corner." She gestures vaguely towards a glass-walled office area.
+
+It's now **8:50 AM**. You have about 25 minutes before you're scheduled to connect with Mr. Vance.
+
+What's your next move?
+
+1.  Head to your temporary desk, unpack your laptop, and start setting it up.
+2.  Before setting up, use the floor plan to try and locate the 'Catalyst' zone where Mr. Vance is.
+3.  Ask Sarah if there's anything else you should know before she gets busy.
+4.  Take a quick detour to the IT desk to introduce yourself and ensure a smooth setup experience later.
+
+You can select 1, 2, 3, 4, or type your own course of action.
