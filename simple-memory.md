@@ -1,28 +1,32 @@
-Recognizing the time crunch and the need to be fueled for the upcoming meetings, you decide to combine lunch with prep. You quickly head to the office kitchen, grab a pre-made salad or a quick sandwich, and bring it back to your desk.
+You close your notes and head towards the designated conference room for the 1:00 PM Internal Strategy Meeting. As you enter, you see a mix of familiar faces and some senior leaders you've only seen in passing. David Lee, the Project Manager from your morning meeting, is already there, along with a few other consultants, some analysts, and a couple of managers from other departments like HR and Marketing. The meeting seems to be less formal, with people grabbing seats around a large table.
 
-As you eat, you open a fresh note document and begin to mentally prepare for the 1:00 PM Internal Strategy Meeting. Since there's no agenda, you consider the types of topics that might come up: progress on ongoing internal initiatives, potential roadblocks, or ideas for improving cross-functional collaboration. You jot down a few bullet points about your current Project Horizon workload and any potential resource needs that might arise. You also think about a couple of general, high-level questions you could ask to show engagement, focusing on learning more about broader company strategy.
+The meeting begins promptly at **1:00 PM**. Robert Peterson, a senior partner, kicks off the discussion. "Alright team, welcome to our Q4 internal strategy sync. We're here to brainstorm, share updates, and ensure we're all aligned as we move into the busiest part of the year. Let's start with a quick round-robin of updates on current internal initiatives."
 
-**It's 12:55 PM.** You've finished your lunch and have a clear, albeit brief, set of notes for the meeting. The office ambiance has shifted slightly; the lunch rush is winding down, and people are starting to gather for afternoon sessions.
+The discussion progresses, with various team members providing updates on initiatives ranging from new internal software rollouts to professional development programs. You listen intently, taking notes, and occasionally connecting how these internal efforts might impact client projects. You contribute by briefly mentioning your involvement in Project Horizon when the topic of project management methodologies comes up, highlighting a recent efficiency gain.
 
-What's your next move as the 1:00 PM meeting approaches?
+**It's now 1:25 PM.** The meeting is still ongoing, but you're conscious of your upcoming 1:30 PM check-in with Sarah. The conversation has shifted to potential cross-functional collaboration opportunities for Q4.
 
-1.  Head to the meeting room for the 1:00 PM internal strategy meeting.
-2.  Do a final quick check of your Project Horizon presentation outline.
-3.  Send a quick email to Sarah confirming the 1:30 PM check-in.
-4.  Review your general inbox for any new emails.
+What's your next move?
+
+1.  Politely excuse yourself from the meeting a few minutes early to meet Sarah.
+2.  Send a quick internal chat message to Sarah letting her know you'll be a few minutes late.
+3.  Continue listening to the current discussion, hoping the meeting ends on time.
+4.  Raise a question about how new internal initiatives might impact current client projects, linking to Project Horizon.
 
 You can select 1, 2, 3, 4, or type your own course of action.
-Recognizing the time crunch and the need to be fueled for the upcoming meetings, you decide to combine lunch with prep. You quickly head to the office kitchen, grab a pre-made salad or a quick sandwich, and bring it back to your desk.
+You close your notes and head towards the designated conference room for the 1:00 PM Internal Strategy Meeting. As you enter, you see a mix of familiar faces and some senior leaders you've only seen in passing. David Lee, the Project Manager from your morning meeting, is already there, along with a few other consultants, some analysts, and a couple of managers from other departments like HR and Marketing. The meeting seems to be less formal, with people grabbing seats around a large table.
 
-As you eat, you open a fresh note document and begin to mentally prepare for the 1:00 PM Internal Strategy Meeting. Since there's no agenda, you consider the types of topics that might come up: progress on ongoing internal initiatives, potential roadblocks, or ideas for improving cross-functional collaboration. You jot down a few bullet points about your current Project Horizon workload and any potential resource needs that might arise. You also think about a couple of general, high-level questions you could ask to show engagement, focusing on learning more about broader company strategy.
+The meeting begins promptly at **1:00 PM**. Robert Peterson, a senior partner, kicks off the discussion. "Alright team, welcome to our Q4 internal strategy sync. We're here to brainstorm, share updates, and ensure we're all aligned as we move into the busiest part of the year. Let's start with a quick round-robin of updates on current internal initiatives."
 
-**It's 12:55 PM.** You've finished your lunch and have a clear, albeit brief, set of notes for the meeting. The office ambiance has shifted slightly; the lunch rush is winding down, and people are starting to gather for afternoon sessions.
+The discussion progresses, with various team members providing updates on initiatives ranging from new internal software rollouts to professional development programs. You listen intently, taking notes, and occasionally connecting how these internal efforts might impact client projects. You contribute by briefly mentioning your involvement in Project Horizon when the topic of project management methodologies comes up, highlighting a recent efficiency gain.
 
-What's your next move as the 1:00 PM meeting approaches?
+**It's now 1:25 PM.** The meeting is still ongoing, but you're conscious of your upcoming 1:30 PM check-in with Sarah. The conversation has shifted to potential cross-functional collaboration opportunities for Q4.
 
-1.  Head to the meeting room for the 1:00 PM internal strategy meeting.
-2.  Do a final quick check of your Project Horizon presentation outline.
-3.  Send a quick email to Sarah confirming the 1:30 PM check-in.
-4.  Review your general inbox for any new emails.
+What's your next move?
+
+1.  Politely excuse yourself from the meeting a few minutes early to meet Sarah.
+2.  Send a quick internal chat message to Sarah letting her know you'll be a few minutes late.
+3.  Continue listening to the current discussion, hoping the meeting ends on time.
+4.  Raise a question about how new internal initiatives might impact current client projects, linking to Project Horizon.
 
 You can select 1, 2, 3, 4, or type your own course of action.
