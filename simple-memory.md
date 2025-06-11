@@ -3,6 +3,7 @@
 
 
 
+
 1. **Open the 'Urgent' email from Liam Chen immediately.**
 
 As a professional, my priority is always to address the most pressing matters first, especially when they come from a Project Lead and are marked 'Urgent'. Client needs, particularly in an engagement like 'Quantum Leap', often have a direct impact on our success and reputation. Understanding the nature of the urgency allows me to quickly assess the situation and determine the best course of action, even before the official workday begins. I'd rather be informed and proactive than caught off guard. After addressing Liam's email, I would then take a moment to review my calendar and structure my day effectively.
@@ -45,3 +46,20 @@ What's your next move?
 
 You can select 1, 2, 3, 4, or type your own course of action.
 1. Head to your temporary desk, unpack your laptop, and start setting it up.
+**(Narrator Persona)**
+You thank Sarah, a slight nod of acknowledgment, and then, laptop bag in hand, you navigate the short distance to your temporary desk. It's a clean, modern workstation, complete with a large monitor, an ergonomic chair, and a surprisingly comfortable looking footrest. Settling in, you carefully unzipping the laptop bag. Inside, nestled amongst some cables and a wireless mouse, is a sleek Innovate Solutions branded laptop and a slim, laminated "Quick IT Setup Guide."
+
+Following the guide, you power on the laptop. The Innovate Solutions logo glows briefly before giving way to a login screen. The guide walks you through the initial network connection and password setup. You enter the temporary password provided in your welcome packet. After a moment of processing, the screen flickers, and you're greeted by a personalized "Welcome to Innovate Solutions, Alex!" message. The desktop loads, adorned with company-standard shortcuts and a prominent link to the 'Innovate Connect' internal portal.
+
+You spend a few minutes clicking through the basic applications – email, internal chat, the company's file-sharing system. Everything seems to be working, a small victory on your first day. You also take a moment to adjust your chair and connect your personal phone to the charging port you found.
+
+It's now **9:10 AM**. You have about 5 minutes before your scheduled connect with Mr. Harrison Vance, your manager. You recall Sarah mentioning he's usually in the 'Catalyst' zone. You glance at the floor plan she gave you, noting the marked area.
+
+What's your next move?
+
+1.  Head directly to the 'Catalyst' zone to meet Mr. Vance, aiming to be slightly early.
+2.  Send Mr. Vance a quick message via internal chat to confirm the meeting location and let him know you're set up.
+3.  Take a moment to quickly browse the 'Innovate Connect' portal for any immediate useful information before heading out.
+4.  Stand up and stretch, taking a quick look around the office to familiarize yourself with your immediate surroundings before heading to the 'Catalyst' zone.
+
+You can select 1, 2, 3, 4, or type your own course of action.
