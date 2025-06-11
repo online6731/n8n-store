@@ -1,28 +1,28 @@
-You shift your focus from the Project Horizon presentation. You open your calendar again and click on the 1:00 PM 'Internal Strategy Meeting.' The description is concise: "Review of Q4 internal initiatives. Discussion on cross-functional collaboration and resource allocation." There's no specific agenda document linked, suggesting it might be more of a discussion-based meeting.
+Recognizing the time crunch and the need to be fueled for the upcoming meetings, you decide to combine lunch with prep. You quickly head to the office kitchen, grab a pre-made salad or a quick sandwich, and bring it back to your desk.
 
-You recall that these internal strategy meetings often involve updates from different departments and a collaborative effort to identify efficiencies or potential bottlenecks for the upcoming quarter. As a Junior Consultant, your role would likely be to listen, learn, and contribute where appropriate, perhaps by offering insights from ongoing client projects.
+As you eat, you open a fresh note document and begin to mentally prepare for the 1:00 PM Internal Strategy Meeting. Since there's no agenda, you consider the types of topics that might come up: progress on ongoing internal initiatives, potential roadblocks, or ideas for improving cross-functional collaboration. You jot down a few bullet points about your current Project Horizon workload and any potential resource needs that might arise. You also think about a couple of general, high-level questions you could ask to show engagement, focusing on learning more about broader company strategy.
 
-**It's 12:25 PM.** You have about 35 minutes before the meeting, and you still haven't had lunch.
+**It's 12:55 PM.** You've finished your lunch and have a clear, albeit brief, set of notes for the meeting. The office ambiance has shifted slightly; the lunch rush is winding down, and people are starting to gather for afternoon sessions.
 
-What's your next step?
+What's your next move as the 1:00 PM meeting approaches?
 
-1.  Quickly grab a light lunch to eat at your desk while you prep for the meeting.
-2.  Do some quick research on Innovate Solutions' Q4 internal initiatives if possible.
-3.  Prepare a few general questions about internal processes or resource allocation.
-4.  Focus on reviewing your overall project load to be ready to discuss resource needs.
+1.  Head to the meeting room for the 1:00 PM internal strategy meeting.
+2.  Do a final quick check of your Project Horizon presentation outline.
+3.  Send a quick email to Sarah confirming the 1:30 PM check-in.
+4.  Review your general inbox for any new emails.
 
 You can select 1, 2, 3, 4, or type your own course of action.
-You shift your focus from the Project Horizon presentation. You open your calendar again and click on the 1:00 PM 'Internal Strategy Meeting.' The description is concise: "Review of Q4 internal initiatives. Discussion on cross-functional collaboration and resource allocation." There's no specific agenda document linked, suggesting it might be more of a discussion-based meeting.
+Recognizing the time crunch and the need to be fueled for the upcoming meetings, you decide to combine lunch with prep. You quickly head to the office kitchen, grab a pre-made salad or a quick sandwich, and bring it back to your desk.
 
-You recall that these internal strategy meetings often involve updates from different departments and a collaborative effort to identify efficiencies or potential bottlenecks for the upcoming quarter. As a Junior Consultant, your role would likely be to listen, learn, and contribute where appropriate, perhaps by offering insights from ongoing client projects.
+As you eat, you open a fresh note document and begin to mentally prepare for the 1:00 PM Internal Strategy Meeting. Since there's no agenda, you consider the types of topics that might come up: progress on ongoing internal initiatives, potential roadblocks, or ideas for improving cross-functional collaboration. You jot down a few bullet points about your current Project Horizon workload and any potential resource needs that might arise. You also think about a couple of general, high-level questions you could ask to show engagement, focusing on learning more about broader company strategy.
 
-**It's 12:25 PM.** You have about 35 minutes before the meeting, and you still haven't had lunch.
+**It's 12:55 PM.** You've finished your lunch and have a clear, albeit brief, set of notes for the meeting. The office ambiance has shifted slightly; the lunch rush is winding down, and people are starting to gather for afternoon sessions.
 
-What's your next step?
+What's your next move as the 1:00 PM meeting approaches?
 
-1.  Quickly grab a light lunch to eat at your desk while you prep for the meeting.
-2.  Do some quick research on Innovate Solutions' Q4 internal initiatives if possible.
-3.  Prepare a few general questions about internal processes or resource allocation.
-4.  Focus on reviewing your overall project load to be ready to discuss resource needs.
+1.  Head to the meeting room for the 1:00 PM internal strategy meeting.
+2.  Do a final quick check of your Project Horizon presentation outline.
+3.  Send a quick email to Sarah confirming the 1:30 PM check-in.
+4.  Review your general inbox for any new emails.
 
 You can select 1, 2, 3, 4, or type your own course of action.
