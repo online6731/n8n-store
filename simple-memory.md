@@ -21,6 +21,7 @@
 
 
 
+
 1. **Open the 'Urgent' email from Liam Chen immediately.**
 
 As a professional, my priority is always to address the most pressing matters first, especially when they come from a Project Lead and are marked 'Urgent'. Client needs, particularly in an engagement like 'Quantum Leap', often have a direct impact on our success and reputation. Understanding the nature of the urgency allows me to quickly assess the situation and determine the best course of action, even before the official workday begins. I'd rather be informed and proactive than caught off guard. After addressing Liam's email, I would then take a moment to review my calendar and structure my day effectively.
@@ -226,3 +227,20 @@ What's your next move?
 
 You can select 1, 2, 3, 4, or type your own course of action.
 2. Perform a quick, final review of the executive summary for any errors, then send it to Mr. Vance.
+**(Narrator Persona)**
+You resist the urge to send it immediately, knowing that a fresh pair of eyes – even your own – often catches errors. You take a deep breath, quickly read through your drafted executive summary one last time. You spot a minor typo in a client's name and rephrase one sentence for better clarity. The improvements are subtle but important for a document intended for senior eyes. Satisfied, you attach the document to a new email, address it to Mr. Harrison Vance, and write a concise subject line: "Horizon Project - Executive Summary Draft - Alex Chen." Your message is brief: "Dear Mr. Vance, Please find attached the draft executive summary for the Horizon Project. I look forward to your feedback. Best regards, Alex."
+
+You hit 'Send'. The email whizzes off into the Innovate Solutions network.
+
+You glance at the clock on your laptop as the email disappears from your outbox. It's **1:02 PM**. You've delivered the summary, just a couple of minutes past the exact deadline, a minor and acceptable delay given the quick review. Your stomach gives another insistent rumble. The office environment has shifted slightly; the buzz has lessened, and some desks are now empty as colleagues head out for lunch.
+
+The next phase of your day is clear: a well-deserved break to refuel.
+
+What do you do for lunch?
+
+1.  Head to the Innovate Solutions cafeteria to see what's available and get a feel for the options.
+2.  Look for a smaller, less crowded cafe or deli outside the building.
+3.  Check your phone for any personal messages or news while deciding if you want to eat at your desk.
+4.  Try to spot any other new hires or solo colleagues who might be going for lunch.
+
+You can select 1, 2, 3, 4, or type your own course of action.
