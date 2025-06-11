@@ -33,6 +33,7 @@
 
 
 
+
 1. **Open the 'Urgent' email from Liam Chen immediately.**
 
 As a professional, my priority is always to address the most pressing matters first, especially when they come from a Project Lead and are marked 'Urgent'. Client needs, particularly in an engagement like 'Quantum Leap', often have a direct impact on our success and reputation. Understanding the nature of the urgency allows me to quickly assess the situation and determine the best course of action, even before the official workday begins. I'd rather be informed and proactive than caught off guard. After addressing Liam's email, I would then take a moment to review my calendar and structure my day effectively.
@@ -381,3 +382,20 @@ What's your next move?
 
 You can select 1, 2, 3, 4, or type your own course of action.
 3. Do a final scan of your email and Innovate Connect for any urgent messages before leaving for the day.
+**(Narrator Persona)**
+Before calling it a day, you decide on a quick, final sweep of your digital platforms. You open your email client, quickly scanning your inbox. Besides Mr. Vance's earlier feedback and a few automated internal newsletters, there are no new urgent messages or notifications requiring immediate attention.
+
+You then navigate to Innovate Connect. The internal chat shows a few 'away' statuses, and the newsfeed displays routine company updates – no pressing announcements or new tasks assigned since Mr. Vance's last email. Everything appears quiet and settled for the evening.
+
+Satisfied that you haven't missed anything critical, you close your laptop, the screen going dark with a soft click. You carefully pack your laptop back into its bag, gather your minimal personal belongings, and adjust your chair. The office around you is now significantly emptier, a hush falling over the workstations.
+
+It's **5:25 PM**. Your first day at Innovate Solutions is effectively done. You've successfully navigated onboarding, taken on your first tasks, received positive feedback, and prepared for tomorrow. A sense of quiet accomplishment settles over you.
+
+What is your final action for the day?
+
+1.  Head straight for the elevator and leave the office.
+2.  Take a moment to tidy your temporary desk thoroughly before leaving.
+3.  Walk by your team's general area (Catalyst zone) one last time, just to get a feel for who might still be around.
+4.  Send a generic "Good evening" message to the team chat, even if no one is active.
+
+You can select 1, 2, 3, 4, or type your own course of action.
