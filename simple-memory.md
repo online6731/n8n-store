@@ -41,6 +41,7 @@
 
 
 
+
 1. **Open the 'Urgent' email from Liam Chen immediately.**
 
 As a professional, my priority is always to address the most pressing matters first, especially when they come from a Project Lead and are marked 'Urgent'. Client needs, particularly in an engagement like 'Quantum Leap', often have a direct impact on our success and reputation. Understanding the nature of the urgency allows me to quickly assess the situation and determine the best course of action, even before the official workday begins. I'd rather be informed and proactive than caught off guard. After addressing Liam's email, I would then take a moment to review my calendar and structure my day effectively.
@@ -449,3 +450,18 @@ What's your next move?
 
 You can select 1, 2, 3, 4, or type your own course of action.
 1. Quickly review your compiled notes on market trends and competitors one last time before the meeting.
+**(Narrator Persona)**
+You open the document you compiled yesterday, "Horizon Project - Market & Competitor Analysis Notes." You read through your identified key market trends: the surge in battery storage, increasing consolidation, growing demand for corporate PPAs, and the need for policy and regulatory agility. You also quickly scan the brief profiles of Evergreen Energy's top competitors and Innovate Solutions' perceived competitive advantage.
+
+This rapid review helps to solidify the information in your mind, ensuring you can articulate your findings clearly and concisely. You mentally rehearse how you'll present each point, anticipating potential follow-up questions from Mr. Vance. The notes are well-organized, and you feel prepared.
+
+You glance at the clock: it's **9:28 AM**. You have two minutes until your scheduled meeting with Mr. Vance in the Catalyst zone.
+
+What's your next move?
+
+1.  Head immediately to the Catalyst zone to meet Mr. Vance.
+2.  Send a quick chat message to Mr. Vance stating you're on your way to the Catalyst zone.
+3.  Take a moment to open Innovate Connect on your laptop, preparing to share screens if needed.
+4.  Stand up and stretch briefly before making your way to the meeting.
+
+You can select 1, 2, 3, 4, or type your own course of action.
