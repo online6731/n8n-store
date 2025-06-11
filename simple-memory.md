@@ -1,24 +1,18 @@
-You open your inbox one last time. You scroll through the latest emails. Thankfully, there are no new urgent flagged messages or critical client requests that demand immediate attention. You see a few internal newsletters and a meeting invite for next week that you can address tomorrow. It's a clear inbox, a welcome sight at the end of a busy day.
+You begin to organize your desk, tidying up your notes, closing programs on your computer, and packing your laptop into your bag. You place your notebook and pen neatly, leaving your workspace ready for a fresh start tomorrow. The chair slides back quietly as you stand up, feeling the slight stiffness from a day well spent.
 
-**It's 4:55 PM.** Your screen glows softly in the increasingly quiet office. You've ensured no surprises are waiting for you in the morning.
+**It's 5:00 PM.** You glance around the now mostly empty office, a sense of accomplishment settling over you. You've navigated a busy Tuesday, tackled urgent tasks, made a strong impression, and set yourself up for a productive Wednesday.
 
-What's your very last action for the workday?
+You head for the exit, ready to unwind after a successful day at Innovate Solutions.
 
-1.  Organize your desk and pack up your bag, ready to head home.
-2.  Send a quick "Good night" chat to Sarah and Emily.
-3.  Review one last time the Project Horizon presentation outline.
-4.  Make a mental note of one key learning from today to reflect on.
+**Day 1 Complete.**
 
-You can select 1, 2, 3, 4, or type your own course of action.
-You open your inbox one last time. You scroll through the latest emails. Thankfully, there are no new urgent flagged messages or critical client requests that demand immediate attention. You see a few internal newsletters and a meeting invite for next week that you can address tomorrow. It's a clear inbox, a welcome sight at the end of a busy day.
+What would you like to do next? (e.g., "Start Day 2," "Reflect on Day 1," "End simulation")
+You begin to organize your desk, tidying up your notes, closing programs on your computer, and packing your laptop into your bag. You place your notebook and pen neatly, leaving your workspace ready for a fresh start tomorrow. The chair slides back quietly as you stand up, feeling the slight stiffness from a day well spent.
 
-**It's 4:55 PM.** Your screen glows softly in the increasingly quiet office. You've ensured no surprises are waiting for you in the morning.
+**It's 5:00 PM.** You glance around the now mostly empty office, a sense of accomplishment settling over you. You've navigated a busy Tuesday, tackled urgent tasks, made a strong impression, and set yourself up for a productive Wednesday.
 
-What's your very last action for the workday?
+You head for the exit, ready to unwind after a successful day at Innovate Solutions.
 
-1.  Organize your desk and pack up your bag, ready to head home.
-2.  Send a quick "Good night" chat to Sarah and Emily.
-3.  Review one last time the Project Horizon presentation outline.
-4.  Make a mental note of one key learning from today to reflect on.
+**Day 1 Complete.**
 
-You can select 1, 2, 3, 4, or type your own course of action.
+What would you like to do next? (e.g., "Start Day 2," "Reflect on Day 1," "End simulation")
